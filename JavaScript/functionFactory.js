@@ -9,3 +9,4 @@ const f = createHelloWorld();
 f();
 
 // "Hello World"
+ 
