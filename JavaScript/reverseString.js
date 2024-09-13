@@ -5,5 +5,3 @@
         console.log(stack.pop());
     }
 
- let str = "joe";
- reverseString(str);
