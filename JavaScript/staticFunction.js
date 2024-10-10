@@ -21,3 +21,12 @@ class Circle {
 
 const circle = Circle.parse('{"radius" : 1}');
 console.log(circle);
+
+function format-funtion(s){
+    let format = "+2";
+    format += s;
+
+}
+
+const array = [{ id: 1 }, { id: 2 }, { id: 3 }];
+const index = array.findIndex();
